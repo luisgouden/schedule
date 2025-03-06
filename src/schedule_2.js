@@ -50,14 +50,14 @@ const schedule = [
     },
     {
         "Start": "13:10:00",
-        "Ends": "15:10:00",
+        "Ends": "14:40:00",
         "Event": "Official Previous Test 2",
         "Team": "All",
         "Digital": "Yes",
         "Day": 2.0
     },
     {
-        "Start": "15:00:00",
+        "Start": "14:40:00",
         "Ends": "18:00:00",
         "Event": "Technical Scrutineering",
         "Digital": "Yes",
