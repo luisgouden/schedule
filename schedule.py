@@ -47,8 +47,8 @@ def split_by_day(df, day1, day2):
 def main():
     # Configuración
     file_path = 'schedule.xlsx'
-    day1 = 3
-    day2 = 4
+    day1 = 1
+    day2 = 2
 
     sheet_name = f'Day {day1}&{day2}'
     output_file_day1 = f'schedule_{day1}.js'
